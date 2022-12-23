@@ -2,7 +2,7 @@
 
 # Backstory
 
-
+  The main reason I chose Snake as my game was because I wanted to see if I could improve a classic game everyone knows by adding my own spin on it with multiple speeds and modifiers. in addition it is a very good candidate for an 8x8 matrix display game, as it does not need many pixels to work well.
 
 # Game/menu Demo
 Link video: https://www.youtube.com/watch?v=6_MLjZ3GQEg
@@ -13,9 +13,11 @@ Used components: 16 X 2 LCD, 8 X 8 Led matrix display, Shift register, Potentiom
 
 # Navigation
 
-Main menu: To switch from main menu and sub-menu press the button (joystick).
+Main menu: 
+  - To switch from main menu and sub-menu press the button (joystick).
 
-Navigation: Made with the up and down directions on the joystick. To see what navigation options u have look to the right of the screen at the arrows.
+Navigation: 
+  - Made with the up and down directions on the joystick. To see what navigation options u have look to the right of the screen at the arrows.
 
 Start game:
   - Shows points, speed, wall collision, apple dissapearing and name of the player.
