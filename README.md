@@ -46,12 +46,9 @@ How to play:
 
 Use the joystick to change the direction of the snake(UP, DOWN, LEFT, RIGHT).
 Modulators:
-  - Speed changes the speed of the snake. If not changed manually, it will gradually change as you
-progress further in the game.
-  - If wall collision is turned ON, the snake will on longer be able to teleport from one side 
-of the matrix to the other.
-  - If apple dissapearing is turned ON, the apple will dissapear after a set time. If the player
-doesn't manage to eat the apple befure it dissapears to another location, the score goes down by 1 point.
+  - Speed changes the speed of the snake. If not changed manually, it will gradually change as you progress further in the game.
+  - If wall collision is turned ON, the snake will on longer be able to teleport from one side  of the matrix to the other.
+  - If apple dissapearing is turned ON, the apple will dissapear after a set time. If the player doesn't manage to eat the apple befure it dissapears to another location, the score goes down by 1 point.
   - The score goes up faster if modulators are turne ON: 
     - Speed: Slow(1), Fast(2), Turbo(3);
     - Wall collision: OFF(0), ON(1);
