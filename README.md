@@ -6,7 +6,7 @@ The main reason I chose Snake as my game was because I wanted to see if I could 
 
 # Game description
 
-  
+The player controls a long, thin creature, resembling a snake, which roams around on a bordered plane, picking up apples, trying to avoid hitting its own tail or the edges of the playing area. Each time the snake eats an apple, its tail grows longer, making the game increasingly difficult. The user controls the direction of the snake's head (up, down, left, or right), and the snake's body follows.
 
 # Game/menu Demo
 Link video: https://www.youtube.com/watch?v=6_MLjZ3GQEg
