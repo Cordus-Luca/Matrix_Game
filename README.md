@@ -44,7 +44,7 @@ How to play:
 
 # How to play
 
-Use the joystick to change the direction of the snake(UP, DOWN, LEFT, RIGHT).
+Use the joystick to change the direction of the snake(UP, DOWN, LEFT, RIGHT) and eat apples to gain points.
 Modulators:
   - Speed changes the speed of the snake. If not changed manually, it will gradually change as you progress further in the game.
   - If wall collision is turned ON, the snake will on longer be able to teleport from one side  of the matrix to the other.
